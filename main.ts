@@ -32,11 +32,11 @@ namespace dice {
     //% block
     export function image2Dice(): void {
         basic.showLeds(`
-        . . . . #
-        . . . . .
-        . . . . .
-        . . . . .
         # . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . #
         `)
     }
     /**
